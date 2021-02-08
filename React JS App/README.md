@@ -1,24 +1,17 @@
-# Object Detection React App
+#TensorFlow.js Custom Object Detection
 
-You can find an in depth walkthrough for training a TensorFlow.js model [here](https://github.com/cloud-annotations/training/).
+Create your own custom object detection app using TensorFlow.js
 
-## Setup
-`git clone` the repo and `cd` into it by running the following command:
+##Steps:
 
-```bash
-git clone https://github.com/cloud-annotations/object-detection-react.git
-cd object-detection-react
-```
+1. Clone the repository on your local machine.
+2. Login to your Google account and upload your dataset in the following directory strucutre ONLY; to avoid any errors during model training as the notebook is created that is compatible to this format of directory.
+```TFJS-Custom-Detection
+   |__ images (contains all the training and validation *.jpg image files)
+   |__ annotations (contains all the training and validation *.xml annotation files)
+   |__ train (contains only the training *.jpg and *.xml files)
+   |__ val (contains only the validation *.jpg and *.xml files)```
 
-### `npm install`
 
-> **Note: You’ll need to have Node 8.10.0 or later on your local development machine.** You can use [nvm](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to easily switch Node versions between different projects.
-
-## Add TensorFlow.js Model to the App
-Copy the `model_web` directory generated from the object detection walkthrough and paste it into the `public` folder of this repo.
-
-## Run the App
-### `npm start`
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+3. Upload the `Custom_Object_Detection_using_TensorFlow_js.ipynb` notebook on Colab.
+4. Run the cells one-by-one by following the instructions.
