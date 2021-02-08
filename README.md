@@ -5,7 +5,7 @@ Create your own custom object detection model and deploy it on the browser using
 
 1. Clone the repository on your local machine.
 2. Sign in to your Google account and upload the `Custom_Object_Detection_using_TensorFlow.js` notebook on Colab.
-3. Upload your dataset on Google Drive in the following directory structure only to avoid any errors as the notebook is created which is compatible to this format.
+3. Upload your dataset on Google Drive in the following directory structure ONLY; to avoid any errors as the notebook is created which is compatible to this format.
 
    ```TFJS-Custom-Detection
    |__ images (all training and validation *.jpg files)
