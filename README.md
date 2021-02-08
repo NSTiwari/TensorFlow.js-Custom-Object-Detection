@@ -10,7 +10,8 @@ Create your own custom object detection model and deploy it on the browser using
    |__ images (contains all training and validation *.jpg files)
    |__ annotations (contains all training and validation *.xml files)
    |__ train (contains only training *.jpg and *.xml files)
-   |__ val (contains only validation *.jpg and *.xml files)```
+   |__ val (contains only validation *.jpg and *.xml files)
+   ```
    
 3. Sign in to your Google account and upload the `Custom_Object_Detection_using_TensorFlow_js.ipynb` notebook on Colab.
 4. Run the notebook cells one-by-one by following the instructions.
