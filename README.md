@@ -14,7 +14,7 @@ Create your own custom object detection model and deploy it on the browser using
    
 3. Sign in to your Google account and upload the `Custom_Object_Detection_using_TensorFlow_js.ipynb` notebook on Colab.
 4. Run the notebook cells one-by-one by following the instructions.
-5. Once the TFJS model is downloaded, copy the `model_web` folder inside `React Web App/public` directory.
+5. Once the TFJS model is downloaded, copy the `model_web` folder inside `TensorFlow.js-Custom-Object-Detection/React Web App/public` directory.
 6. Run the following commands:
    - `cd TensorFlow.js-Custom-Object-Detection/React Web App`
    - `npm install`
