@@ -19,5 +19,6 @@ Create your own custom object detection model and deploy it on the browser using
    - `cd TensorFlow.js-Custom-Object-Detection/React Web App`
    - `npm install`
    - `npm run`
+7. Open `localhost:3000` on your web browser and test the model for yourself.
 
 
