@@ -8,10 +8,10 @@ Create your own custom object detection model and deploy it on the browser using
 3. Upload your dataset on Google Drive in the following directory structure ONLY; to avoid any errors as the notebook is created which is compatible to this format.
 
    ```TFJS-Custom-Detection
-   |__ images (all training and validation *.jpg files)
-   |__ annotations (all training and validation *.xml files)
-   |__ train (only training *.jpg and *.xml files)
-   |__ val (only validation *.jpg and *.xml files)```
+   |__ images (contains all training and validation *.jpg files)
+   |__ annotations (contains all training and validation *.xml files)
+   |__ train (contains only training *.jpg and *.xml files)
+   |__ val (contains only validation *.jpg and *.xml files)```
    
 4. Run the notebook cells one-by-one by following the instructions.
 5. Once the TFJS model is downloaded, copy the `model_web` folder inside `React Web App/public` directory.
