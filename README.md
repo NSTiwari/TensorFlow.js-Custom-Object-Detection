@@ -23,4 +23,7 @@ Create your own custom object detection model and deploy it on the browser using
    - `npm start`
 7. Open `localhost:3000` on your web browser and test the model for yourself.
 
+![GitHub Logo](/images/output.png)
+Format: ![Alt Text](url)
+
 
