@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "TensorFlow.js Custom Object Detection",
   "keywords": [],
-  "repository":"https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/",
-  "license":"MIT",
+  "repository": "https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/",
+  "license": "MIT",
   "main": "src/index.js",
   "dependencies": {
     "@cloud-annotations/models": "^0.1.7",
