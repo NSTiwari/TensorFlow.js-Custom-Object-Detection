@@ -1,4 +1,4 @@
-# TensorFlow.js-Custom-Object-Detection
+# Custom Object Detection on the browser using TensorFlow.js
 Create your own custom object detection model and deploy it on the browser using TensorFlow.js
 
 ## Steps:
