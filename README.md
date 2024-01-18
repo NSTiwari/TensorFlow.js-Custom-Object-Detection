@@ -1,6 +1,8 @@
 # Custom Object Detection on the browser using TensorFlow.js
 Create your own custom object detection model and deploy it on the browser using TensorFlow.js
 
+**Note:** TF 1.x is no longer supported; refer to the [TFJS-TFLite Object Detection](https://github.com/NSTiwari/TFJS-TFLite-Object-Detection) repository to create and deploy an object detection model on the browser.
+
 ## Steps:
 
 1. Clone the repository on your local machine.
